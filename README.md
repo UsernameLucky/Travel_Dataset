@@ -20,7 +20,7 @@ The **Travel_ML.xlsx** dataset includes the following key variables:
 - **Marketing Metrics**: Duration of pitch, follow-ups, pitch satisfaction score  
 - **Additional Data**: Monthly income, car ownership, passport status
 
-## Steps Completed So Far  
+## Steps 
 1. **Data Inspection**:  
    - Loaded the dataset from `Travel_ML.xlsx` and reviewed its content.
    - Identified important columns for predictive modeling and customer segmentation.
